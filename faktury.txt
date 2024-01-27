@@ -1,0 +1,1 @@
+{"Kwota": 128.0, "Data_faktury": "2001-07-21", "Waluta": "PLN"}
